@@ -1,6 +1,7 @@
 # Arduino用　Music.h
 ## インストール方法
 1. 「Clone or download」→「Download ZIP」でダウンロード
+2. ダウンロードしたzipファイルを「Music」にリネーム
 2. Arduino IDEを開く
 3. メニューバーから「スケッチ」→「ライブラリをインクルード」→「.ZIP形式のライブラリをインストール」を選択
 4. 1.でダウンロードしたMusicフォルダを選択
