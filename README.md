@@ -5,7 +5,7 @@
 1. 「Clone or download」→「Download ZIP」でダウンロード
 2. ダウンロードしたzipファイルを解凍する
 3. 「Music.cpp」と「Music.h」をinoファイル(Arduinoのソースコード)と同じ場所に置く
-4. inoファイルの先頭に`#include <Music.h>`と書く
+4. inoファイルの先頭に`#include "Music.h"`と書く
 5. 音楽を流したいタイミングで`playMusic(ピン番号, 音楽名, BPM);`を使う。
 6. 音楽の作り方は下記参照
 
